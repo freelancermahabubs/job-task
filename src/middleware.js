@@ -22,12 +22,5 @@ export async function middleware(req, res) {
 }
 
 export const config = {
-  matcher: [
-    "/user",
-    "/profile",
-    "/comments",
-    "/api/comments/manage",
-    "/api/user/profile/details",
-    "/api/user/profile/update",
-  ],
+  matcher: ["/user", "/api/dashboard/customer"],
 };

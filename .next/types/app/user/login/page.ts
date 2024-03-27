@@ -1,4 +1,4 @@
-// File: C:\Users\Edu Fixup\Downloads\Source Code\src\app\user\login\page.jsx
+// File: D:\job-task\src\app\user\login\page.jsx
 import * as entry from '../../../../../src/app/user/login/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
